@@ -19,3 +19,4 @@ Versions used in this compilation:
 - p5.sound.js v0.3.7
 - [normalize.css](https://github.com/anishathalye/?normalize) v8.0.0
 - structure and HTML based on [HTML5 Boilerplate](https://html5boilerplate.com/) v6.0.1
+# type-face
